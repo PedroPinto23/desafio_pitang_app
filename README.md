@@ -6,10 +6,10 @@ API used in this project: 'https://desafio-mobile-pitang.herokuapp.com/movies/li
 # PREVIEW
 
 <p float="left">
-<img src="screenshots/Screenshot_1.jpg" width="200" /> 
-<img src="screenshots/Screenshot_2.jpg" width="200" /> 
-<img src="screenshots/Screenshot_3.jpg" width="200" /> 
-<img src="screenshots/Screenshot_4.jpg" width="200" /> 
+<img src="screenshots/Screenshot_1.jpg" width="100" /> 
+<img src="screenshots/Screenshot_2.jpg" width="100" /> 
+<img src="screenshots/Screenshot_3.jpg" width="100" /> 
+<img src="screenshots/Screenshot_4.jpg" width="100" /> 
 </p>
 
 ## Getting Started
